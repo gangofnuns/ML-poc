@@ -16,6 +16,10 @@ using ensemble techniques with Random Forest, and XGBoost.
 3. A classifier that tries to do this with xml tags from a _large data store_, i.e. 
 the US Patent Database.. 
 
+```
+./classifier/patents
+```
+
 ## Cloud security detection.
 ## Data pipeline automation.
 ## Detection of outliers in Real Estate data.
