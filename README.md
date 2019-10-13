@@ -2,6 +2,10 @@
 
 A set of Machine Learning proofs of concept for building various models useful in: 
 
+```
+./chat-classifier
+```
+
 ## ML parser for chat
 1. Using linear descriminant analysis (LDA) to find topical clusters in a high volume 
 chatroom (aka Critical Role).
