@@ -4,7 +4,7 @@ A set of Machine Learning proofs of concept for building various models useful i
 
 ## ML parser for chat
 1. Using linear descriminant analysis (LDA) to find topical clusters in a high volume 
-chatroom (aka Critical Role).
+chatroom (aka Critical Role). Similar approach to Principal Component Analysis (PCA).
 
 2. Experiments with _ensemble techniques_ to produce higher accuracy classifications
 using ensemble techniques with Random Forest, and XGBoost.

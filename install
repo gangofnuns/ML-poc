@@ -1,0 +1,20 @@
+# install the following python packages: 
+
+```
+NumPy - a math library. We use NumPy arrays (nparray) quite a lot.
+SciPy - A collection of functions for scientific computing. Also scipy.sparse provides sparse matrices.
+pandas -   
+matplotlib
+jupyter-notebook
+iPython
+scikit-learn
+```
+
+# on mac, you can do: 
+
+```
+brew cask install anaconda
+```
+
+This installs the anaconda distribution, which has all the above tools plus python3. 
+
